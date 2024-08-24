@@ -166,7 +166,7 @@
                     "text": "Destructuring"
                 },
                 {
-                    "text": "Arrow funct"
+                    "text": "Arrow function"
                 }
             ],
             "explanation": "this.propertyName is the way to access a specific property within a class"
